@@ -10,7 +10,7 @@ import android.view.MenuItem;
 import android.widget.ImageView;
 
 /**
- * Created by Edwin on 15/02/2015.
+ * Created by James Smith
  */
 public class MainA extends ActionBarActivity {
 
